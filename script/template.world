@@ -10,19 +10,19 @@
       <uri>model://ground_plane</uri>
     </include>
 
-<!-- 棚 -->
+    <!-- 棚 -->
     <include>
       <uri>model://kiva_pod</uri>
     </include>
 
-<!-- チップスター -->
-{% for sample in sample_list %}
+    <!-- チップスター -->
+    {% for chip_star in chip_star_list %}
     <include>
-      <name>{{sample.name}}</name>
-      <pose>{{sample.x}} {{sample.y}} {{sample.z}} 0 0 0</pose>
+      <name>{{chip_star.name}}</name>
+      <pose>{{chip_star.x}} {{chip_star.y}} {{chip_star.z}} 0 0 {{chip_star.yaw}}</pose>
       <uri>model://chip_star</uri>
     </include>
-{% endfor %}
+    {% endfor %}
 
   </world>
 </sdf>

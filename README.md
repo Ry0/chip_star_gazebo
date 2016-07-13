@@ -17,6 +17,8 @@ gazebo chip_star_gazebo/script/chip_star.world
 
 ```bash
 sudo pip install jinja2
+cd script
+python genenrate.py
 ```
 
 チップスターをたくさん置きたいと思った時の補助スクリプト．

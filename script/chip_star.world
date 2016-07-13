@@ -10,711 +10,613 @@
       <uri>model://ground_plane</uri>
     </include>
 
+    <!-- 棚 -->
     <include>
       <uri>model://kiva_pod</uri>
     </include>
 
-
+    <!-- チップスター -->
+    
     <include>
       <name>chip_star_0.06_-0.34_0.4</name>
-      <pose>0.06 -0.34 0.4 0 0 0</pose>
+      <pose>0.06 -0.34 0.4 0 0 0.372294339718</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.06_-0.34_0.54</name>
-      <pose>0.06 -0.34 0.54 0 0 0</pose>
+      <pose>0.06 -0.34 0.54 0 0 4.19292755349</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.06_-0.27_0.4</name>
-      <pose>0.06 -0.27 0.4 0 0 0</pose>
+      <pose>0.06 -0.27 0.4 0 0 0.649413143931</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.06_-0.27_0.54</name>
-      <pose>0.06 -0.27 0.54 0 0 0</pose>
+      <pose>0.06 -0.27 0.54 0 0 2.176246246</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.06_-0.2_0.4</name>
-      <pose>0.06 -0.2 0.4 0 0 0</pose>
+      <pose>0.06 -0.2 0.4 0 0 1.70386393982</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.06_-0.2_0.54</name>
-      <pose>0.06 -0.2 0.54 0 0 0</pose>
+      <pose>0.06 -0.2 0.54 0 0 2.72870989938</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.06_-0.13_0.4</name>
-      <pose>0.06 -0.13 0.4 0 0 0</pose>
+      <pose>0.06 -0.13 0.4 0 0 4.37968260525</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.06_-0.13_0.54</name>
-      <pose>0.06 -0.13 0.54 0 0 0</pose>
+      <pose>0.06 -0.13 0.54 0 0 3.09603425473</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.06_-0.06_0.4</name>
-      <pose>0.06 -0.06 0.4 0 0 0</pose>
+      <pose>0.06 -0.06 0.4 0 0 3.70830724734</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.06_-0.06_0.54</name>
-      <pose>0.06 -0.06 0.54 0 0 0</pose>
+      <pose>0.06 -0.06 0.54 0 0 0.752157486312</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.13_-0.34_0.4</name>
-      <pose>0.13 -0.34 0.4 0 0 0</pose>
+      <pose>0.13 -0.34 0.4 0 0 4.29740945381</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.13_-0.34_0.54</name>
-      <pose>0.13 -0.34 0.54 0 0 0</pose>
+      <pose>0.13 -0.34 0.54 0 0 4.4844617661</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.13_-0.27_0.4</name>
-      <pose>0.13 -0.27 0.4 0 0 0</pose>
+      <pose>0.13 -0.27 0.4 0 0 3.32425704071</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.13_-0.27_0.54</name>
-      <pose>0.13 -0.27 0.54 0 0 0</pose>
+      <pose>0.13 -0.27 0.54 0 0 1.85671652459</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.13_-0.2_0.4</name>
-      <pose>0.13 -0.2 0.4 0 0 0</pose>
+      <pose>0.13 -0.2 0.4 0 0 3.16116870584</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.13_-0.2_0.54</name>
-      <pose>0.13 -0.2 0.54 0 0 0</pose>
+      <pose>0.13 -0.2 0.54 0 0 3.33403390083</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.13_-0.13_0.4</name>
-      <pose>0.13 -0.13 0.4 0 0 0</pose>
+      <pose>0.13 -0.13 0.4 0 0 5.80240705591</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.13_-0.13_0.54</name>
-      <pose>0.13 -0.13 0.54 0 0 0</pose>
+      <pose>0.13 -0.13 0.54 0 0 5.6091439719</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.13_-0.06_0.4</name>
-      <pose>0.13 -0.06 0.4 0 0 0</pose>
+      <pose>0.13 -0.06 0.4 0 0 0.833396663911</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.13_-0.06_0.54</name>
-      <pose>0.13 -0.06 0.54 0 0 0</pose>
+      <pose>0.13 -0.06 0.54 0 0 1.62273333759</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.2_-0.34_0.4</name>
-      <pose>0.2 -0.34 0.4 0 0 0</pose>
+      <pose>0.2 -0.34 0.4 0 0 4.65339152696</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.2_-0.34_0.54</name>
-      <pose>0.2 -0.34 0.54 0 0 0</pose>
+      <pose>0.2 -0.34 0.54 0 0 5.732125401</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.2_-0.27_0.4</name>
-      <pose>0.2 -0.27 0.4 0 0 0</pose>
+      <pose>0.2 -0.27 0.4 0 0 1.22254227194</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.2_-0.27_0.54</name>
-      <pose>0.2 -0.27 0.54 0 0 0</pose>
+      <pose>0.2 -0.27 0.54 0 0 5.58842558442</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.2_-0.2_0.4</name>
-      <pose>0.2 -0.2 0.4 0 0 0</pose>
+      <pose>0.2 -0.2 0.4 0 0 4.87542025387</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.2_-0.2_0.54</name>
-      <pose>0.2 -0.2 0.54 0 0 0</pose>
+      <pose>0.2 -0.2 0.54 0 0 3.46739016859</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.2_-0.13_0.4</name>
-      <pose>0.2 -0.13 0.4 0 0 0</pose>
+      <pose>0.2 -0.13 0.4 0 0 2.32955553333</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.2_-0.13_0.54</name>
-      <pose>0.2 -0.13 0.54 0 0 0</pose>
+      <pose>0.2 -0.13 0.54 0 0 3.9007451683</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.2_-0.06_0.4</name>
-      <pose>0.2 -0.06 0.4 0 0 0</pose>
+      <pose>0.2 -0.06 0.4 0 0 0.936701939629</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.2_-0.06_0.54</name>
-      <pose>0.2 -0.06 0.54 0 0 0</pose>
+      <pose>0.2 -0.06 0.54 0 0 5.95838173971</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.27_-0.34_0.4</name>
-      <pose>0.27 -0.34 0.4 0 0 0</pose>
+      <pose>0.27 -0.34 0.4 0 0 3.3639498487</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.27_-0.34_0.54</name>
-      <pose>0.27 -0.34 0.54 0 0 0</pose>
+      <pose>0.27 -0.34 0.54 0 0 5.31358131536</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.27_-0.27_0.4</name>
-      <pose>0.27 -0.27 0.4 0 0 0</pose>
+      <pose>0.27 -0.27 0.4 0 0 4.70743878205</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.27_-0.27_0.54</name>
-      <pose>0.27 -0.27 0.54 0 0 0</pose>
+      <pose>0.27 -0.27 0.54 0 0 0.914751146178</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.27_-0.2_0.4</name>
-      <pose>0.27 -0.2 0.4 0 0 0</pose>
+      <pose>0.27 -0.2 0.4 0 0 6.01195950028</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.27_-0.2_0.54</name>
-      <pose>0.27 -0.2 0.54 0 0 0</pose>
+      <pose>0.27 -0.2 0.54 0 0 0.447410868555</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.27_-0.13_0.4</name>
-      <pose>0.27 -0.13 0.4 0 0 0</pose>
+      <pose>0.27 -0.13 0.4 0 0 0.595209257754</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.27_-0.13_0.54</name>
-      <pose>0.27 -0.13 0.54 0 0 0</pose>
+      <pose>0.27 -0.13 0.54 0 0 3.65223066433</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.27_-0.06_0.4</name>
-      <pose>0.27 -0.06 0.4 0 0 0</pose>
+      <pose>0.27 -0.06 0.4 0 0 2.73674239852</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.27_-0.06_0.54</name>
-      <pose>0.27 -0.06 0.54 0 0 0</pose>
+      <pose>0.27 -0.06 0.54 0 0 4.38754162183</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.34_-0.34_0.4</name>
-      <pose>0.34 -0.34 0.4 0 0 0</pose>
+      <pose>0.34 -0.34 0.4 0 0 4.80360037068</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.34_-0.34_0.54</name>
-      <pose>0.34 -0.34 0.54 0 0 0</pose>
+      <pose>0.34 -0.34 0.54 0 0 2.86150309367</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.34_-0.27_0.4</name>
-      <pose>0.34 -0.27 0.4 0 0 0</pose>
+      <pose>0.34 -0.27 0.4 0 0 0.0560580999732</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.34_-0.27_0.54</name>
-      <pose>0.34 -0.27 0.54 0 0 0</pose>
+      <pose>0.34 -0.27 0.54 0 0 4.89562047394</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.34_-0.2_0.4</name>
-      <pose>0.34 -0.2 0.4 0 0 0</pose>
+      <pose>0.34 -0.2 0.4 0 0 0.762297231731</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.34_-0.2_0.54</name>
-      <pose>0.34 -0.2 0.54 0 0 0</pose>
+      <pose>0.34 -0.2 0.54 0 0 2.6883236201</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.34_-0.13_0.4</name>
-      <pose>0.34 -0.13 0.4 0 0 0</pose>
+      <pose>0.34 -0.13 0.4 0 0 2.18647997416</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.34_-0.13_0.54</name>
-      <pose>0.34 -0.13 0.54 0 0 0</pose>
+      <pose>0.34 -0.13 0.54 0 0 5.72185905281</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.34_-0.06_0.4</name>
-      <pose>0.34 -0.06 0.4 0 0 0</pose>
+      <pose>0.34 -0.06 0.4 0 0 3.44525387029</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_0.34_-0.06_0.54</name>
-      <pose>0.34 -0.06 0.54 0 0 0</pose>
+      <pose>0.34 -0.06 0.54 0 0 6.18705040045</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.34_-0.34_0.4</name>
-      <pose>-0.34 -0.34 0.4 0 0 0</pose>
+      <pose>-0.34 -0.34 0.4 0 0 4.74523961227</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.34_-0.34_0.54</name>
-      <pose>-0.34 -0.34 0.54 0 0 0</pose>
+      <pose>-0.34 -0.34 0.54 0 0 5.267206182</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.34_-0.27_0.4</name>
-      <pose>-0.34 -0.27 0.4 0 0 0</pose>
+      <pose>-0.34 -0.27 0.4 0 0 3.96980745258</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.34_-0.27_0.54</name>
-      <pose>-0.34 -0.27 0.54 0 0 0</pose>
+      <pose>-0.34 -0.27 0.54 0 0 0.0983005787642</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.34_-0.2_0.4</name>
-      <pose>-0.34 -0.2 0.4 0 0 0</pose>
+      <pose>-0.34 -0.2 0.4 0 0 5.33974261986</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.34_-0.2_0.54</name>
-      <pose>-0.34 -0.2 0.54 0 0 0</pose>
+      <pose>-0.34 -0.2 0.54 0 0 2.93321133187</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.34_-0.13_0.4</name>
-      <pose>-0.34 -0.13 0.4 0 0 0</pose>
+      <pose>-0.34 -0.13 0.4 0 0 5.2800282253</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.34_-0.13_0.54</name>
-      <pose>-0.34 -0.13 0.54 0 0 0</pose>
+      <pose>-0.34 -0.13 0.54 0 0 0.82728418334</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.34_-0.06_0.4</name>
-      <pose>-0.34 -0.06 0.4 0 0 0</pose>
+      <pose>-0.34 -0.06 0.4 0 0 1.21066103066</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.34_-0.06_0.54</name>
-      <pose>-0.34 -0.06 0.54 0 0 0</pose>
+      <pose>-0.34 -0.06 0.54 0 0 0.856174993623</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.27_-0.34_0.4</name>
-      <pose>-0.27 -0.34 0.4 0 0 0</pose>
+      <pose>-0.27 -0.34 0.4 0 0 3.16734175008</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.27_-0.34_0.54</name>
-      <pose>-0.27 -0.34 0.54 0 0 0</pose>
+      <pose>-0.27 -0.34 0.54 0 0 1.41382958626</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.27_-0.27_0.4</name>
-      <pose>-0.27 -0.27 0.4 0 0 0</pose>
+      <pose>-0.27 -0.27 0.4 0 0 5.3569934783</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.27_-0.27_0.54</name>
-      <pose>-0.27 -0.27 0.54 0 0 0</pose>
+      <pose>-0.27 -0.27 0.54 0 0 5.22238500946</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.27_-0.2_0.4</name>
-      <pose>-0.27 -0.2 0.4 0 0 0</pose>
+      <pose>-0.27 -0.2 0.4 0 0 2.75035708088</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.27_-0.2_0.54</name>
-      <pose>-0.27 -0.2 0.54 0 0 0</pose>
+      <pose>-0.27 -0.2 0.54 0 0 2.79618511652</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.27_-0.13_0.4</name>
-      <pose>-0.27 -0.13 0.4 0 0 0</pose>
+      <pose>-0.27 -0.13 0.4 0 0 4.50647452072</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.27_-0.13_0.54</name>
-      <pose>-0.27 -0.13 0.54 0 0 0</pose>
+      <pose>-0.27 -0.13 0.54 0 0 2.152773178</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.27_-0.06_0.4</name>
-      <pose>-0.27 -0.06 0.4 0 0 0</pose>
+      <pose>-0.27 -0.06 0.4 0 0 0.737874249353</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.27_-0.06_0.54</name>
-      <pose>-0.27 -0.06 0.54 0 0 0</pose>
+      <pose>-0.27 -0.06 0.54 0 0 1.57082152734</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.2_-0.34_0.4</name>
-      <pose>-0.2 -0.34 0.4 0 0 0</pose>
+      <pose>-0.2 -0.34 0.4 0 0 2.25881798017</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.2_-0.34_0.54</name>
-      <pose>-0.2 -0.34 0.54 0 0 0</pose>
+      <pose>-0.2 -0.34 0.54 0 0 3.94785042218</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.2_-0.27_0.4</name>
-      <pose>-0.2 -0.27 0.4 0 0 0</pose>
+      <pose>-0.2 -0.27 0.4 0 0 0.226081913397</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.2_-0.27_0.54</name>
-      <pose>-0.2 -0.27 0.54 0 0 0</pose>
+      <pose>-0.2 -0.27 0.54 0 0 0.579603647244</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.2_-0.2_0.4</name>
-      <pose>-0.2 -0.2 0.4 0 0 0</pose>
+      <pose>-0.2 -0.2 0.4 0 0 0.0538162774762</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.2_-0.2_0.54</name>
-      <pose>-0.2 -0.2 0.54 0 0 0</pose>
+      <pose>-0.2 -0.2 0.54 0 0 5.44652367695</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.2_-0.13_0.4</name>
-      <pose>-0.2 -0.13 0.4 0 0 0</pose>
+      <pose>-0.2 -0.13 0.4 0 0 5.74145421764</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.2_-0.13_0.54</name>
-      <pose>-0.2 -0.13 0.54 0 0 0</pose>
+      <pose>-0.2 -0.13 0.54 0 0 5.46293181954</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.2_-0.06_0.4</name>
-      <pose>-0.2 -0.06 0.4 0 0 0</pose>
+      <pose>-0.2 -0.06 0.4 0 0 1.60818562372</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.2_-0.06_0.54</name>
-      <pose>-0.2 -0.06 0.54 0 0 0</pose>
+      <pose>-0.2 -0.06 0.54 0 0 0.463479647646</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.13_-0.34_0.4</name>
-      <pose>-0.13 -0.34 0.4 0 0 0</pose>
+      <pose>-0.13 -0.34 0.4 0 0 1.05210789007</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.13_-0.34_0.54</name>
-      <pose>-0.13 -0.34 0.54 0 0 0</pose>
+      <pose>-0.13 -0.34 0.54 0 0 1.36890526933</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.13_-0.27_0.4</name>
-      <pose>-0.13 -0.27 0.4 0 0 0</pose>
+      <pose>-0.13 -0.27 0.4 0 0 3.29428456557</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.13_-0.27_0.54</name>
-      <pose>-0.13 -0.27 0.54 0 0 0</pose>
+      <pose>-0.13 -0.27 0.54 0 0 5.941321986</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.13_-0.2_0.4</name>
-      <pose>-0.13 -0.2 0.4 0 0 0</pose>
+      <pose>-0.13 -0.2 0.4 0 0 3.49073549376</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.13_-0.2_0.54</name>
-      <pose>-0.13 -0.2 0.54 0 0 0</pose>
+      <pose>-0.13 -0.2 0.54 0 0 5.45576144902</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.13_-0.13_0.4</name>
-      <pose>-0.13 -0.13 0.4 0 0 0</pose>
+      <pose>-0.13 -0.13 0.4 0 0 4.47701556051</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.13_-0.13_0.54</name>
-      <pose>-0.13 -0.13 0.54 0 0 0</pose>
+      <pose>-0.13 -0.13 0.54 0 0 1.02147547632</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.13_-0.06_0.4</name>
-      <pose>-0.13 -0.06 0.4 0 0 0</pose>
+      <pose>-0.13 -0.06 0.4 0 0 6.21789496706</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.13_-0.06_0.54</name>
-      <pose>-0.13 -0.06 0.54 0 0 0</pose>
+      <pose>-0.13 -0.06 0.54 0 0 5.20087850422</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.06_-0.34_0.4</name>
-      <pose>-0.06 -0.34 0.4 0 0 0</pose>
+      <pose>-0.06 -0.34 0.4 0 0 3.74130414311</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.06_-0.34_0.54</name>
-      <pose>-0.06 -0.34 0.54 0 0 0</pose>
+      <pose>-0.06 -0.34 0.54 0 0 1.09740638952</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.06_-0.27_0.4</name>
-      <pose>-0.06 -0.27 0.4 0 0 0</pose>
+      <pose>-0.06 -0.27 0.4 0 0 2.91411030291</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.06_-0.27_0.54</name>
-      <pose>-0.06 -0.27 0.54 0 0 0</pose>
+      <pose>-0.06 -0.27 0.54 0 0 6.01502053124</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.06_-0.2_0.4</name>
-      <pose>-0.06 -0.2 0.4 0 0 0</pose>
+      <pose>-0.06 -0.2 0.4 0 0 3.98400744292</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.06_-0.2_0.54</name>
-      <pose>-0.06 -0.2 0.54 0 0 0</pose>
+      <pose>-0.06 -0.2 0.54 0 0 5.65350527438</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.06_-0.13_0.4</name>
-      <pose>-0.06 -0.13 0.4 0 0 0</pose>
+      <pose>-0.06 -0.13 0.4 0 0 3.45672733953</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.06_-0.13_0.54</name>
-      <pose>-0.06 -0.13 0.54 0 0 0</pose>
+      <pose>-0.06 -0.13 0.54 0 0 3.58823050517</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.06_-0.06_0.4</name>
-      <pose>-0.06 -0.06 0.4 0 0 0</pose>
+      <pose>-0.06 -0.06 0.4 0 0 4.19055163472</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
     <include>
       <name>chip_star_-0.06_-0.06_0.54</name>
-      <pose>-0.06 -0.06 0.54 0 0 0</pose>
+      <pose>-0.06 -0.06 0.54 0 0 2.24865654995</pose>
       <uri>model://chip_star</uri>
     </include>
-
-
+    
 
   </world>
 </sdf>
