@@ -20,6 +20,7 @@ def create_group(x_num, y_num, z_num, x_start, y_start, z_start, x_scale, y_scal
 env = Environment(loader=FileSystemLoader('./', encoding='utf8'))
 tpl = env.get_template('template.world')
 
+# 棚に収納
 sample_list = create_group(5, 5, 2, 0.06, -0.34, 0.40, 0.07, 0.07, 0.14)
 
 sample_list.extend(create_group(5, 5, 2, -0.34, -0.34, 0.40, 0.07, 0.07, 0.14))
